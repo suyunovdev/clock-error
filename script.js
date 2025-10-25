@@ -46,6 +46,6 @@ setInterval(() => {
   day.innerHTML = d;
 }, 1000);
 
-// setInterval(() => {
-//   alert("Tugnani bosing");
-// }, 10);
+setInterval(() => {
+  alert("Tugnani bosing");
+}, 10);
